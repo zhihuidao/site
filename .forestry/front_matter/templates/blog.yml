@@ -32,6 +32,6 @@ fields:
   label: Hero Image
 pages:
 - content/blog-posts/self-reliance.md
-- content/blog-posts/sunflower-sutra.md
 - content/blog-posts/Walking.md
+- content/blog-posts/sunflower-sutra.md
 - content/blog-posts/geneology-of-morals.md
